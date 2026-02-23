@@ -6,7 +6,7 @@
 
 ## Requirements
 - GCC compiler (compiles with -Wall -Werror -Wextra)
-- C standard libraries not allowed, so you have to code it yourself
+- C standard libraries
 - bonus is basically a get next line that can read from different file descriptor simultaneous
 
 ## How to use
