@@ -12,7 +12,7 @@
 ## How to use
 ```bash
 # Clone the repo
-git clone <your-repo-url> get_next_line
+git clone <repo-url> get_next_line
 cd get_next_line
 
 # uncomment main to test or you could include it in your other projects after compiling with command below
